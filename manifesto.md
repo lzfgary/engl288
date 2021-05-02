@@ -7,13 +7,13 @@ A brand created by `Cristóbal Balenciaga`, who was born in Spanish then moved t
 `Demna Gvasalia`
 - current creative director of Balenciaga
 - the co-founder of Vetements
-- born under the context of Soviet Union
-- studies econmoics during college
+- born under the context of the Soviet Union
+- studies economics during college
 
 
 
 ## Motif
-- `Futurism`: a social ideology which studies and extrapolates the progression of the society based on status quo. From aspect of designing, futurism is demonstrated by criticizing and negate dated ideology.
+- `Futurism`: a social ideology that studies and extrapolates the progression of the society based on the status quo. From the aspect of designing, futurism is demonstrated by criticizing and negate dated ideology.
 - `Youth, Speed, Power, and Technology`
 
 
@@ -29,17 +29,17 @@ Not just professional models, professionals from different realms are included -
   - `power dressing for women`
     - implies how politics manipulate people.
   - `replacing identification card with Master Card`
-    - represents modern people’s misconception of self identification and security which is now just built upon purchasing power.
+    - represents modern people’s misconception of self-identification and security which is now just built upon purchasing power.
   - `models holding smart phones`
-    - questions viewer whether is technology owns us or we own techonoly?
-  - `coats covered with jossip magzine`
-    - resembles the impetuousity in society
+    - questions viewer whether is technology owns us or we own technology?
+  - `coats covered with gossip magzines`
+    - resembles the impetuosity in society
   - `blades representing drug culture`
     - express the corruption of youth
 
 ## What is the show trying to express?
-As a dsigner with multiclure backgrounds, Demna is much more sensitive to elements that are outside of design art. Lets first take a look at these two quotes from him:
+As a designer with multicultural backgrounds, Demna is much more sensitive to elements that are outside of design art. Lets first take a look at these two quotes from him:
  - `I like that people think my clothes are ugly. I think it is a compliment.`
  - `I think it’s also very interesting to find this line where ugly becomes beautiful and beautiful becomes ugly.`
  
-Demna wants people to view ugliness before recognizing what is actually beauty by challenging the viewer with visually striking elements in his design. By having these abnomral and challenging elements, the designer want people to reflect on current society. Designer is trying to convey the necessity to pay attention to youth and also to reflect on technology.
+Demna wants people to view ugliness before recognizing what is actually beauty by challenging the viewer with visually striking elements in his design. By having these abnormal and challenging elements, the designer wants people to reflect on current society. The designer is trying to convey the necessity to pay attention to youth and also to reflect on technology.
