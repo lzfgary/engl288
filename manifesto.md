@@ -2,6 +2,7 @@
 <p align="center">
   <img src="./Balenciaga.jpeg" width="500" height="300"/>
 </p>
+
 ## Background history
 A brand created by `Cristóbal Balenciaga`, who was born in Spanish then moved to Paris, with over 100 years of history.
 
