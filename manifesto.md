@@ -1,5 +1,7 @@
 # Balenciaga Spring 2020
-
+<p align="center">
+  <img src="./Balenciaga.jpg" width="800" height="500"/>
+</p>
 ## Background history
 A brand created by `Cristóbal Balenciaga`, who was born in Spanish then moved to Paris, with over 100 years of history.
 
