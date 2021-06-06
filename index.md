@@ -9,7 +9,7 @@ A brand created by `Cristóbal Balenciaga`, who was born in Spanish then moved t
 - current creative director of Balenciaga
 - the co-founder of Vetements
 - born under the context of the Soviet Union
-- studies economics during college
+- studies Economics during college
 
 
 
