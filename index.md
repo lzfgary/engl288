@@ -2,8 +2,6 @@
 <p align="center">
   <img src="./Balenciaga.jpeg" width="500" height="300"/>
 </p>
-
-## Background history
 A brand created by `Cristóbal Balenciaga`, who was born in Spanish then moved to Paris, with over 100 years of history.
 
 ## About
@@ -40,7 +38,7 @@ Not just professional models, professionals from different realms are included -
   - `blades representing drug culture`
     - express the corruption of youth
 
-## What is the show trying to express?
+## What is the story behind the scene?
 As a designer with multicultural backgrounds, Demna is much more sensitive to elements that are outside of design art. Lets first take a look at these two quotes from him:
  - `I like that people think my clothes are ugly. I think it is a compliment.`
  - `I think it’s also very interesting to find this line where ugly becomes beautiful and beautiful becomes ugly.`
