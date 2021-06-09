@@ -2,7 +2,7 @@
 <p align="center">
   <img src="./Balenciaga.jpeg" width="500" height="300"/>
 </p>
-A brand created by `Cristóbal Balenciaga`, who was born in Spanish then moved to Paris, with over 100 years of history.
+A brand with over 100 years of history.
 
 ## About
 `Demna Gvasalia`
@@ -43,4 +43,4 @@ As a designer with multicultural backgrounds, Demna is much more sensitive to el
  - `I like that people think my clothes are ugly. I think it is a compliment.`
  - `I think it’s also very interesting to find this line where ugly becomes beautiful and beautiful becomes ugly.`
  
-Demna wants people to view ugliness before recognizing what is actually beauty by challenging the viewer with visually striking elements in his design. By having these abnormal and challenging elements, the designer does not only want to challenge modern aesthetics, but he also wants to people to reflect on the current society. The designer is trying to convey the necessity to pay attention to youth and also to reflect on technology.
+Fashion is not just good-looking clothes. `Ugliness needs to be recognized before realizing what is actual beauty!` Demna wants to challenge the viewer with visually striking elements. With these abnormal and challenging elements, the designer does not only want to challenge modern aesthetics, but he also wants people to reflect on the current society. The designer is trying to convey the necessity to pay attention to youth and also to reflect on technology. `Be mindful about everything.`
